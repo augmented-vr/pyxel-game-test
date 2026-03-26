@@ -1,10 +1,10 @@
 # pyxel-game-test
 
-PC専用
-https://augmented-vr.github.io/pyxel-game-test/
+PC専用  
+https://augmented-vr.github.io/pyxel-game-test/  
 
-Pyxelの「著作権」と「ライセンス全文」
-https://github.com/kitao/pyxel/blob/main/LICENSE
+Pyxelの「著作権」と「ライセンス全文」  
+https://github.com/kitao/pyxel/blob/main/LICENSE  
 
 MIT License
 
