@@ -1,6 +1,8 @@
 # pyxel-game-test
 
-PC専用  
+2026/05/01 変更
+バーチャルゲームパッドで動くように修正、一部挙動を変更
+
 https://augmented-vr.github.io/pyxel-game-test/  
 
 Pyxelの「著作権」と「ライセンス全文」  
